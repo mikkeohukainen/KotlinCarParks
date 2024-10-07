@@ -10,8 +10,11 @@ import com.example.carparks.R
 
 @Composable
 fun MainScreen(navController: NavController) {
+    val infoText = stringResource(R.string.info)
+    val settingsText = stringResource(R.string.settings)
+
     Scaffold(
-        topBar = { MainTopBar(stringResource(R.string.title), navController) },
+        topBar = { MainTopBar(title = stringResource(R.string.title), infoText = infoText, settingsText = settingsText, navController = navController) },
         content = { innerPadding -> ParksScreen(modifier = Modifier.padding(innerPadding))},
     )
 }

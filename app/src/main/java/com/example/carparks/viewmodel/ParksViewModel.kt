@@ -32,8 +32,8 @@ class ParksViewModel : ViewModel() {
                     maxCapacity
                     spacesAvailable
                     pricing {
-                        title { fi }
-                        value { fi }
+                        title { fi, en }
+                        value { fi, en }
                     }
                 }
             }
