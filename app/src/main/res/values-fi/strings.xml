@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CarParks</string>
+    <string name="API_error">Yhteysvirhe. Tarkista internetyhteys ja yritä uudelleen.</string>
+    <string name="no_car_parks_available">Tietoja ei saatavilla</string>
+    <string name="info">Info</string>
+    <string name="settings">Asetukset</string>
+    <string name="available_spaces">Vapaana: %1$s</string>
+    <string name="n_a">tieto ei saatavilla</string>
+    <string name="title">Oulun pysäköintilaitokset</string>
+    <string name="max_capacity">Kapasiteetti: %1$s</string>
+    <string name="about">Tietoa sovelluksesta</string>
+    <string name="about2">Tämä sovellus on \'Mobiiliohjelmointi natiiviteknologioilla\' -kurssin lopputyö.</string>
+    <string name="about3">Sovellus hakee Oulun pysäköintilaitosten ajantasaiset tilatiedot avoimesta rajapinnasta:</string>
+    <string name="about4">https://api.oulunliikenne.fi/proxy/graphql/</string>
+    <string name="about5">Tilatietoja päivitetään 5–20 minuutin välein pysäköintitalosta riippuen.</string>
+    <string name="dark_mode">"Tumma tila "</string>
+    <string name="select_language">Valitse kieli:</string>
+</resources>

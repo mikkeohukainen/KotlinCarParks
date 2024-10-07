@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CarParks</string>
+    <string name="API_error">Connection error. Please check your internet connection and try again.</string>
+    <string name="no_car_parks_available">Information not available</string>
+    <string name="info">Info</string>
+    <string name="settings">Settings</string>
+    <string name="available_spaces">Available: %1$s</string>
+    <string name="n_a">information not available</string>
+    <string name="title">Oulu Parking Facilities</string>
+    <string name="max_capacity">"Capacity: %1$s"</string>
+    <string name="about">About the application</string>
+    <string name="about2">This application is a final project for the \'Mobile Programming with Native Technologies\' course.</string>
+    <string name="about3">The app retrieves real-time parking facility data from an open API:</string>
+    <string name="about4">https://api.oulunliikenne.fi/proxy/graphql/</string>
+    <string name="about5">The information is updated every 5–20 minutes, depending on the parking facility.</string>
+    <string name="dark_mode">Dark mode </string>
+    <string name="select_language">Select language:</string>
+    <string name="english" translatable="false">English</string>
+    <string name="suomi" translatable="false">Suomi</string>
+</resources>
